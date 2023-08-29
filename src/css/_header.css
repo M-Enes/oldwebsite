@@ -1,0 +1,12 @@
+@import './_navigation.css';
+
+.header {
+    padding: 2rem 0;
+}
+
+@media screen and (max-width:1024px) {
+    .header {
+        padding: 1rem 0;
+        padding-bottom: 1.5rem;
+    }
+}

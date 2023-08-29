@@ -1,0 +1,29 @@
+.card-image {
+    max-width: 20%;
+    max-height: 20%;
+    margin: 10px auto;
+}
+
+.card-content {
+    text-align: center;
+}
+
+.card-content .card-header {
+    color: #212121;
+    font-size: 24px;
+    max-width: 100px;
+    margin: 0 auto;
+}
+
+.card-hcj-image {
+    margin: 10px 100px;
+}
+
+.card-hcj-image i {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.card-content .card-hcj-header {
+    max-width: 300px;
+}

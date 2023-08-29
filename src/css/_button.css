@@ -1,0 +1,25 @@
+button,
+.button {
+    border-radius: 50px;
+    padding: 10px 20px;
+}
+.icon-button {
+    display: flex;
+    align-items: center;
+}
+
+.icon-button a {
+    font-size: 1rem;
+    color: #485068;
+    font-weight: 500;
+}
+
+.icon-button span {
+    padding-left: 1rem;
+}
+
+.white-button {
+    box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+    background-color: #ffffff;
+    color: #212121;
+}
